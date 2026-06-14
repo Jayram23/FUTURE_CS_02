@@ -1,7 +1,9 @@
 # FUTURE_CS_02 — Phishing Detection & Awareness Report
 
-> **Future Interns Cybersecurity Internship — Task 02**  
-> Author: [Jayram23](https://github.com/Jayram23)
+**KPOGO K. Samuel** | Cybersecurity Student — L2 Licence Pro  
+ESIG Global Success | Lomé, Togo  
+🔗 GitHub: [github.com/Jayram23](https://github.com/Jayram23)  
+🔗 LinkedIn: [linkedin.com/in/skpogo](https://linkedin.com/in/skpogo)
 
 ---
 
